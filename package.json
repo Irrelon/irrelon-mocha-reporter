@@ -1,0 +1,11 @@
+{
+  "name": "@irrelon/mocha-reporter",
+  "version": "1.0.0",
+  "description": "Clean and simple mocha test output",
+  "main": "reporter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rob Evans (Irrelon Software Limited)",
+  "license": "MIT"
+}
